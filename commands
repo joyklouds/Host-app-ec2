@@ -1,0 +1,38 @@
+
+$sudo su
+### The following commands were used in this tutorial
+
+
+$yum update -y
+
+$yum install -y httpd
+
+$mkdir <new directory>
+
+$cd <new directory>
+
+$wget https://github.com/Tech-With-Helen/Host-app-ec2/archive/refs/heads/main.zip
+
+$ls
+
+$unzip main.zip
+
+$ls
+
+$cd Host-app-ec2-main
+
+$ls
+
+$mv * /var/www/html/
+
+$cd /var/www/html/
+
+$ls 
+
+
+$systemctl enable httpd
+
+$systemctl start httpd
+
+$systemctl status httpd
+
