@@ -1,7 +1,6 @@
-
-$sudo su
 ### The following commands were used in this tutorial
 
+$sudo su
 
 $yum update -y
 
