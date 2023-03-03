@@ -1,6 +1,6 @@
 # In this Tutorial, I will guide you step-by-step on how to host a Website on AWS EC2 Instance 
 
-### Your Progress in my concern. 
+### Your Progress is my concern. 
 
 #### Get your hands dirty....
 
